@@ -1,4 +1,4 @@
-# Phoenix API
+# GrowFlow backend Phonix API
 
 Thanks for checking out my submission to the GrowFlow coding challenge
 
